@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">screens</string>
+    <string name="name">Константин</string>
+    <string name="available">Доступно</string>
+    <string name="balance">3 290,75 ₽</string>
+    <string name="why">Почему столько</string>
+    <string name="get_money">ЗАБРАТЬ ДЕНЬГИ</string>
+    <string name="tomorrow">ЗАВТРА ДЕНЬ ЗАРПЛАТЫ🎉</string>
+    <string name="plus">+ 30 000 ₽</string>
+    <string name="amount">+ 224234 ₽</string>
+    <string name="menu">menu</string>
+    <string name="price">1500 ₽</string>
+    <string name="white_cup">Кружка белая</string>
+    <string name="quantity">4</string>
+    <string name="card">Картой **** **** **** 2140</string>
+    <string name="payment">Оплата</string>
+    <string name="express">Экспресс доставка курьером</string>
+    <string name="delivery">Доставка</string>
+    <string name="deliverPrice">100 ₽</string>
+    <string name="addition">500 ₽</string>
+    <string name="additionText">Надбавка за срочность</string>
+    <string name="deliver">Доставка по городу</string>
+    <string name="sum">1 500 ₽ x 4</string>
+    <string name="full">9 600 ₽</string>
+    <string name="full_is">Итого:</string>
+    <string name="sum_is">Стоимость:</string>
+    <string name="delivery_full">600 ₽</string>
+    <string name="sale">–</string>
+    <string name="sale_text">Скидка:</string>
+    <string name="pay">Оплатить</string>
+    <string name="to_pay">Итого к оплате:</string>
+    <string name="to_pay_value">9 600 ₽</string>
+</resources>
