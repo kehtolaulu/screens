@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.kehtolaulu.screens.account.AccountFragment
 import com.kehtolaulu.screens.payment.PaymentFragment
+import com.kehtolaulu.screens.samokatus.SamokatusFragment
 
 class MainActivity : AppCompatActivity() {
 
@@ -11,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         supportFragmentManager.beginTransaction()
-            .replace(R.id.container, AccountFragment())
+            .replace(R.id.container, SamokatusFragment())
             .commit()
     }
 }
